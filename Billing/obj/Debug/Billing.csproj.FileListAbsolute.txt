@@ -1,0 +1,6 @@
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing\bin\Debug\Billing.dll
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing\bin\Debug\Billing.pdb
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing\obj\Debug\Billing.csproj.AssemblyReference.cache
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing\obj\Debug\Billing.csproj.CoreCompileInputs.cache
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing\obj\Debug\Billing.dll
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing\obj\Debug\Billing.pdb

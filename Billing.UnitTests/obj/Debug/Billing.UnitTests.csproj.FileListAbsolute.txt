@@ -1,0 +1,10 @@
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\bin\Debug\Billing.UnitTests.dll
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\bin\Debug\Billing.UnitTests.pdb
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\bin\Debug\Billing.dll
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\bin\Debug\Billing.pdb
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\obj\Debug\Billing.UnitTests.csproj.AssemblyReference.cache
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\obj\Debug\Billing.UnitTests.csproj.CoreCompileInputs.cache
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\obj\Debug\Billing.UnitTests.csproj.CopyComplete
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\obj\Debug\Billing.UnitTests.dll
+D:\Santosh\Project\InfosysPraveen\Billing_Refectoring-main\Billing_Refectoring-main\Billing.UnitTests\obj\Debug\Billing.UnitTests.pdb
